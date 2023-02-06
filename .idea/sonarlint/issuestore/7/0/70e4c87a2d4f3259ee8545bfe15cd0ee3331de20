@@ -1,0 +1,178 @@
+
+Š
+java:S1319Â"gThe type of "parking" should be an interface such as "List" rather than the implementation "ArrayList".(ÿŒùÈÿÿÿÿÿ8†óÃ—â0
+
+java:S1319Æ"lThe type of "outsideSpace" should be an interface such as "List" rather than the implementation "ArrayList".(ƒØ²ıÿÿÿÿ8†óÃ—â0
+…
+java:S1319Ê"gThe type of "heating" should be an interface such as "List" rather than the implementation "ArrayList".(ºÌü8‡óÃ—â0
+Š
+java:S1319Î"lThe type of "commUseClass" should be an interface such as "List" rather than the implementation "ArrayList".(µáÚÌ8‡óÃ—â0
+ˆ
+java:S1319Ò"eThe type of "rooms" should be an interface such as "List" rather than the implementation "ArrayList".(Å´Â¨ûÿÿÿÿ8‡óÃ—â0
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(—òó˜
+y
+java:S1450*"\Remove the "accessibility" field and declare it as a local variable in the relevant methods.(²®‚Ë8óÃ—â0
+v
+java:S1450"ZRemove the "allBillsInc" field and declare it as a local variable in the relevant methods.(êÕÆb8óÃ—â0
+t
+java:S1450'"WRemove the "areaUnit" field and declare it as a local variable in the relevant methods.(Óµ¨µ8óÃ—â0
+z
+java:S1450	"XRemove the "bathrooms" field and declare it as a local variable in the relevant methods.(¢ô÷üÿÿÿÿ8óÃ—â0
+y
+java:S1450"WRemove the "bedrooms" field and declare it as a local variable in the relevant methods.(¬Œ’Üúÿÿÿÿ8óÃ—â0
+}
+java:S1450"[Remove the "burglarAlarm" field and declare it as a local variable in the relevant methods.(ü„­Çÿÿÿÿÿ8óÃ—â0
+{
+java:S1450!"^Remove the "businessForSale" field and declare it as a local variable in the relevant methods.(È·³û8óÃ—â0
+}
+java:S1450/"[Remove the "commUseClass" field and declare it as a local variable in the relevant methods.(¤âÒúÿÿÿÿ8óÃ—â0
+t
+java:S1450)"XRemove the "condition" field and declare it as a local variable in the relevant methods.(µÄV8óÃ—â0
+~
+java:S1450"\Remove the "councilTaxInc" field and declare it as a local variable in the relevant methods.(±Æƒ÷ùÿÿÿÿ8óÃ—â0
+|
+java:S1450#"ZRemove the "description" field and declare it as a local variable in the relevant methods.(ÇÓæâıÿÿÿÿ8óÃ—â0
+v
+java:S1450"YRemove the "dishwasher" field and declare it as a local variable in the relevant methods.(»ÿë£8óÃ—â0
+ƒ
+java:S1450"aRemove the "electricityBillInc" field and declare it as a local variable in the relevant methods.(ã¢œşÿÿÿÿ8óÃ—â0
+~
+java:S1450("\Remove the "entranceFloor" field and declare it as a local variable in the relevant methods.(›²œÁøÿÿÿÿ8óÃ—â0
+t
+java:S1450$"WRemove the "features" field and declare it as a local variable in the relevant methods.(ŸíñÚ8óÃ—â0
+q
+java:S1450"URemove the "floors" field and declare it as a local variable in the relevant methods.(ËÊ²P8óÃ—â0
+y
+java:S1450+"\Remove the "furnishedType" field and declare it as a local variable in the relevant methods.(ºıØ‘8óÃ—â0
+{
+java:S1450"YRemove the "gasBillInc" field and declare it as a local variable in the relevant methods.(ôÈÛÿÿÿÿÿ8óÃ—â0
+s
+java:S1450."VRemove the "heating" field and declare it as a local variable in the relevant methods.(øòîÖ8‘óÃ—â0
+‰
+java:S1450"gRemove the "housingBenefitConsidered" field and declare it as a local variable in the relevant methods.(ÃÖ¨çüÿÿÿÿ8‘óÃ—â0
+}
+java:S1450"[Remove the "internalArea" field and declare it as a local variable in the relevant methods.(ñ¿ˆ øÿÿÿÿ8‘óÃ—â0
+|
+java:S1450%"_Remove the "internalAreaUnit" field and declare it as a local variable in the relevant methods.(Ğ‹ú¸8‘óÃ—â0
+{
+java:S1450 "^Remove the "internetBillInc" field and declare it as a local variable in the relevant methods.(Ëà¼³8‘óÃ—â0
+t
+java:S1450"WRemove the "landArea" field and declare it as a local variable in the relevant methods.(‘Öı8‘óÃ—â0
+x
+java:S1450&"[Remove the "landAreaUnit" field and declare it as a local variable in the relevant methods.(¦èó™8‘óÃ—â0
+r
+java:S1450"VRemove the "maximum" field and declare it as a local variable in the relevant methods.(ÕŒŸl8‘óÃ—â0
+x
+java:S1450"VRemove the "minimum" field and declare it as a local variable in the relevant methods.(¡Ÿ®üÿÿÿÿ8‘óÃ—â0
+u
+java:S1450"YRemove the "oilBillInc" field and declare it as a local variable in the relevant methods.(ØßåA8’óÃ—â0
+}
+java:S1450-"[Remove the "outsideSpace" field and declare it as a local variable in the relevant methods.(“‘Òßşÿÿÿÿ8’óÃ—â0
+s
+java:S1450,"VRemove the "parking" field and declare it as a local variable in the relevant methods.(¸Å‰ò8’óÃ—â0
+|
+java:S1450"ZRemove the "petsAllowed" field and declare it as a local variable in the relevant methods.(œ£·µøÿÿÿÿ8’óÃ—â0
+
+java:S1450
+"]Remove the "receptionRooms" field and declare it as a local variable in the relevant methods.(«×§’ıÿÿÿÿ8’óÃ—â0
+v
+java:S14500"TRemove the "rooms" field and declare it as a local variable in the relevant methods.(¯“Ûøÿÿÿÿ8’óÃ—â0
+}
+java:S1450"`Remove the "satCableTvBillInc" field and declare it as a local variable in the relevant methods.(˜¡ó§8’óÃ—â0
+‚
+java:S1450"`Remove the "sharersConsidered" field and declare it as a local variable in the relevant methods.(”û®’úÿÿÿÿ8’óÃ—â0
+‚
+java:S1450"`Remove the "smokersConsidered" field and declare it as a local variable in the relevant methods.(™»ºııÿÿÿÿ8’óÃ—â0
+s
+java:S1450""VRemove the "summary" field and declare it as a local variable in the relevant methods.(«ó–œ8’óÃ—â0
+x
+java:S1450"[Remove the "tvLicenceInc" field and declare it as a local variable in the relevant methods.(”õïº8’óÃ—â0
+z
+java:S1450"]Remove the "washingMachine" field and declare it as a local variable in the relevant methods.(Ï°Á¿8“óÃ—â0
+x
+java:S1450"[Remove the "waterBillInc" field and declare it as a local variable in the relevant methods.(š÷Î¾8“óÃ—â0
+t
+java:S1450"XRemove the "yearBuilt" field and declare it as a local variable in the relevant methods.(½Š¯{8“óÃ—â0
+N
+java:S1068",Remove this unused "bedrooms" private field.(¬Œ’Üúÿÿÿÿ8ˆè›—â0
+O
+java:S1068	"-Remove this unused "bathrooms" private field.(¢ô÷üÿÿÿÿ8ˆ¶œ—â0
+T
+java:S1068
+"2Remove this unused "receptionRooms" private field.(«×§’ıÿÿÿÿ8Òêœ—â0
+I
+java:S1068"-Remove this unused "yearBuilt" private field.(½Š¯{8íµŸ—â0
+M
+java:S1068"+Remove this unused "minimum" private field.(¡Ÿ®üÿÿÿÿ8ºğ£—â0
+G
+java:S1068"+Remove this unused "maximum" private field.(ÕŒŸl8¤•¤—â0
+F
+java:S1068"*Remove this unused "floors" private field.(ËÊ²P8Î‰¥—â0
+R
+java:S1068"0Remove this unused "internalArea" private field.(ñ¿ˆ øÿÿÿÿ8ã˜ —â0
+I
+java:S1068",Remove this unused "landArea" private field.(‘Öı8Û½¢—â0
+Q
+java:S1068"/Remove this unused "petsAllowed" private field.(œ£·µøÿÿÿÿ8“Ù¬—â0
+W
+java:S1068"5Remove this unused "smokersConsidered" private field.(™»ºııÿÿÿÿ8Ë©®—â0
+^
+java:S1068"<Remove this unused "housingBenefitConsidered" private field.(ÃÖ¨çüÿÿÿÿ8”ó®—â0
+W
+java:S1068"5Remove this unused "sharersConsidered" private field.(”û®’úÿÿÿÿ8¼©¯—â0
+R
+java:S1068"0Remove this unused "burglarAlarm" private field.(ü„­Çÿÿÿÿÿ8Õê¯—â0
+O
+java:S1068"2Remove this unused "washingMachine" private field.(Ï°Á¿8±­°—â0
+K
+java:S1068".Remove this unused "dishwasher" private field.(»ÿë£8Äİ°—â0
+K
+java:S1068"/Remove this unused "allBillsInc" private field.(êÕÆb8²°±—â0
+M
+java:S1068"0Remove this unused "waterBillInc" private field.(š÷Î¾8¹²—â0
+P
+java:S1068".Remove this unused "gasBillInc" private field.(ôÈÛÿÿÿÿÿ8âÕ²—â0
+X
+java:S1068"6Remove this unused "electricityBillInc" private field.(ã¢œşÿÿÿÿ8ò¨³—â0
+J
+java:S1068".Remove this unused "oilBillInc" private field.(ØßåA8—ı³—â0
+S
+java:S1068"1Remove this unused "councilTaxInc" private field.(±Æƒ÷ùÿÿÿÿ8…¥µ—â0
+M
+java:S1068"0Remove this unused "tvLicenceInc" private field.(”õïº8…¥µ—â0
+R
+java:S1068"5Remove this unused "satCableTvBillInc" private field.(˜¡ó§8ğ‘¶—â0
+P
+java:S1068 "3Remove this unused "internetBillInc" private field.(Ëà¼³8„Û¶—â0
+P
+java:S1068!"3Remove this unused "businessForSale" private field.(È·³û8ÆŸ·—â0
+H
+java:S1068""+Remove this unused "summary" private field.(«ó–œ8ğ‘Ã—â0
+Q
+java:S1068#"/Remove this unused "description" private field.(ÇÓæâıÿÿÿÿ8ğ‘Ã—â0
+I
+java:S1068$",Remove this unused "features" private field.(ŸíñÚ8ğ‘Ã—â0
+Q
+java:S1068%"4Remove this unused "internalAreaUnit" private field.(Ğ‹ú¸8’¡—â0
+M
+java:S1068&"0Remove this unused "landAreaUnit" private field.(¦èó™8¹µ£—â0
+I
+java:S1068'",Remove this unused "areaUnit" private field.(Óµ¨µ8„Ø¤—â0
+S
+java:S1068("1Remove this unused "entranceFloor" private field.(›²œÁøÿÿÿÿ8ô¥—â0
+I
+java:S1068)"-Remove this unused "condition" private field.(µÄV8É¨¦—â0
+N
+java:S1068*"1Remove this unused "accessibility" private field.(²®‚Ë8À§—â0
+N
+java:S1068+"1Remove this unused "furnishedType" private field.(ºıØ‘8‰Ú­—â0
+H
+java:S1068,"+Remove this unused "parking" private field.(¸Å‰ò8Åû—â0
+R
+java:S1068-"0Remove this unused "outsideSpace" private field.(“‘Òßşÿÿÿÿ8ë—â0
+H
+java:S1068."+Remove this unused "heating" private field.(øòîÖ8®ñ§—â0
+R
+java:S1068/"0Remove this unused "commUseClass" private field.(¤âÒúÿÿÿÿ8Õ©¹—â0
+K
+java:S10680")Remove this unused "rooms" private field.(¯“Ûøÿÿÿÿ8Õ©¹—â0

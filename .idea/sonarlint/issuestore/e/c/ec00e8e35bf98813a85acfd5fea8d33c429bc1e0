@@ -1,0 +1,64 @@
+
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(—òó˜
+y
+java:S1450"WRemove the "address2" field and declare it as a local variable in the relevant methods.(Â€“‘ÿÿÿÿÿ8‹ÿ‚—â0
+y
+java:S1450"WRemove the "address3" field and declare it as a local variable in the relevant methods.(Æª´‹şÿÿÿÿ8‹ÿ‚—â0
+t
+java:S1450"WRemove the "address4" field and declare it as a local variable in the relevant methods.(¦÷¤õ8‹ÿ‚—â0
+
+java:S1450"]Remove the "displayAddress" field and declare it as a local variable in the relevant methods.(ØÈŒúÿÿÿÿ8‹ÿ‚—â0
+€
+java:S1450"^Remove the "houseNameNumber" field and declare it as a local variable in the relevant methods.(Ğ¬°şøÿÿÿÿ8‹ÿ‚—â0
+t
+java:S1450"WRemove the "latitude" field and declare it as a local variable in the relevant methods.(ÜşÛ8‹ÿ‚—â0
+u
+java:S1450"XRemove the "longitude" field and declare it as a local variable in the relevant methods.(ú²Ç˜8Œÿ‚—â0
+u
+java:S1450	"XRemove the "postcode1" field and declare it as a local variable in the relevant methods.(®ß­ş8Œÿ‚—â0
+u
+java:S1450
+"XRemove the "postcode2" field and declare it as a local variable in the relevant methods.(Ø²µ¨8Œÿ‚—â0
+v
+java:S1450"YRemove the "povHeading" field and declare it as a local variable in the relevant methods.(Ä¦ñ8Œÿ‚—â0
+|
+java:S1450"ZRemove the "povLatitude" field and declare it as a local variable in the relevant methods.(Ú×ß£ÿÿÿÿÿ8Œÿ‚—â0
+}
+java:S1450"[Remove the "povLongitude" field and declare it as a local variable in the relevant methods.(û«Õúÿÿÿÿ8Œÿ‚—â0
+t
+java:S1450"WRemove the "povPitch" field and declare it as a local variable in the relevant methods.(Ç®Ò±8Œÿ‚—â0
+s
+java:S1450"VRemove the "povZoom" field and declare it as a local variable in the relevant methods.(¾’èÜ8Œÿ‚—â0
+p
+java:S1450"SRemove the "town" field and declare it as a local variable in the relevant methods.(«ìÉ8Œÿ‚—â0
+U
+java:S1068"3Remove this unused "houseNameNumber" private field.(Ğ¬°şøÿÿÿÿ8³Óı–â0
+N
+java:S1068",Remove this unused "address2" private field.(Â€“‘ÿÿÿÿÿ8³Óı–â0
+N
+java:S1068",Remove this unused "address3" private field.(Æª´‹şÿÿÿÿ8³Óı–â0
+I
+java:S1068",Remove this unused "address4" private field.(¦÷¤õ8³Óı–â0
+E
+java:S1068"(Remove this unused "town" private field.(«ìÉ8¤€ş–â0
+J
+java:S1068	"-Remove this unused "postcode1" private field.(®ß­ş8Éîş–â0
+J
+java:S1068
+"-Remove this unused "postcode2" private field.(Ø²µ¨8Êîş–â0
+T
+java:S1068"2Remove this unused "displayAddress" private field.(ØÈŒúÿÿÿÿ8åëÿ–â0
+I
+java:S1068",Remove this unused "latitude" private field.(ÜşÛ8åëÿ–â0
+J
+java:S1068"-Remove this unused "longitude" private field.(ú²Ç˜8Œ•€—â0
+Q
+java:S1068"/Remove this unused "povLatitude" private field.(Ú×ß£ÿÿÿÿÿ8œ‘—â0
+R
+java:S1068"0Remove this unused "povLongitude" private field.(û«Õúÿÿÿÿ8‘—â0
+I
+java:S1068",Remove this unused "povPitch" private field.(Ç®Ò±8áĞ—â0
+K
+java:S1068".Remove this unused "povHeading" private field.(Ä¦ñ8ª‚—â0
+H
+java:S1068"+Remove this unused "povZoom" private field.(¾’èÜ8òÎ‚—â0

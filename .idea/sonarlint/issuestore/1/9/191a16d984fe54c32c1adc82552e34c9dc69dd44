@@ -1,0 +1,81 @@
+
+‚
+java:S1319b"eThe type of "media" should be an interface such as "List" rather than the implementation "ArrayList".(Û‰„‰8Ö‡Ë—â0
+m	java:S117*"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŒÜÜ8Ö‡Ë—â0
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(—òó˜
+t	java:S116"SRename this field "new_home" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(”„ˆËúÿÿÿÿ8ş½•–â0
+s
+java:S1450"VRemove the "address" field and declare it as a local variable in the relevant methods.(á»ƒÛ8Ú‡Ë—â0
+t
+java:S1450"WRemove the "agentRef" field and declare it as a local variable in the relevant methods.(ÌÑíÕ8Ú‡Ë—â0
+z
+java:S1450"]Remove the "contractConths" field and declare it as a local variable in the relevant methods.(›Çê8Û‡Ë—â0
+{
+java:S1450"YRemove the "createDate" field and declare it as a local variable in the relevant methods.(»õí¶øÿÿÿÿ8Û‡Ë—â0
+~
+java:S1450"\Remove the "dateAvailable" field and declare it as a local variable in the relevant methods.(¼™İ”şÿÿÿÿ8Û‡Ë—â0
+x
+java:S1450"VRemove the "details" field and declare it as a local variable in the relevant methods.(Ù¼ûšüÿÿÿÿ8Û‡Ë—â0
+
+java:S1450"]Remove the "houseFlatShare" field and declare it as a local variable in the relevant methods.(öÅ”úÿÿÿÿ8Û‡Ë—â0
+x
+java:S1450"VRemove the "letType" field and declare it as a local variable in the relevant methods.(ƒÔ•ˆúÿÿÿÿ8Û‡Ë—â0
+q
+java:S1450"TRemove the "media" field and declare it as a local variable in the relevant methods.(á”8Û‡Ë—â0
+|
+java:S1450"ZRemove the "minimumTerm" field and declare it as a local variable in the relevant methods.(èÍÄòüÿÿÿÿ8Û‡Ë—â0
+y
+java:S1450"WRemove the "new_home" field and declare it as a local variable in the relevant methods.(”„ˆËúÿÿÿÿ8Û‡Ë—â0
+|
+java:S1450"_Remove the "priceInformation" field and declare it as a local variable in the relevant methods.(®­Š8Û‡Ë—â0
+t
+java:S1450"XRemove the "principal" field and declare it as a local variable in the relevant methods.(²û—p8Û‡Ë—â0
+x
+java:S1450"[Remove the "propertyType" field and declare it as a local variable in the relevant methods.(¼Ç‡ô8Û‡Ë—â0
+z
+java:S1450"XRemove the "published" field and declare it as a local variable in the relevant methods.(æ Ô§ÿÿÿÿÿ8Û‡Ë—â0
+w
+java:S1450"URemove the "status" field and declare it as a local variable in the relevant methods.(À³åöıÿÿÿÿ8Û‡Ë—â0
+{
+java:S1450"^Remove the "studentProperty" field and declare it as a local variable in the relevant methods.(‡ÿÛ°8Ü‡Ë—â0
+v
+java:S1450"YRemove the "updateDate" field and declare it as a local variable in the relevant methods.(»ìĞ8Ü‡Ë—â0
+j	java:S100*"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŒÜÜ8İ‡Ë—â0
+H
+java:S1128"+Remove this unused import 'java.util.Date'.(¸…¼ü8¶ºÊ—â0
+O
+java:S1068"2Remove this unused "contractConths" private field.(›Çê8íÚ”–â0
+Q
+java:S1068"/Remove this unused "minimumTerm" private field.(èÍÄòüÿÿÿÿ8íÚ”–â0
+O
+java:S1068"-Remove this unused "published" private field.(æ Ô§ÿÿÿÿÿ8€¾•–â0
+N
+java:S1068",Remove this unused "new_home" private field.(”„ˆËúÿÿÿÿ8€¾•–â0
+P
+java:S1068"3Remove this unused "studentProperty" private field.(‡ÿÛ°8€¾•–â0
+T
+java:S1068"2Remove this unused "houseFlatShare" private field.(öÅ”úÿÿÿÿ8€¾•–â0
+B
+java:S1068",Remove this unused "agentRef" private field.(ÌÑíÕ
+P
+java:S1068".Remove this unused "createDate" private field.(»õí¶øÿÿÿÿ8×“Œ–â0
+K
+java:S1068".Remove this unused "updateDate" private field.(»ìĞ8“Ü–â0
+S
+java:S1068"1Remove this unused "dateAvailable" private field.(¼™İ”şÿÿÿÿ8Ö –â0
+F
+java:S1068"0Remove this unused "propertyType" private field.(¼Ç‡ô
+L
+java:S1068"*Remove this unused "status" private field.(À³åöıÿÿÿÿ8ôèˆ–â0
+M
+java:S1068"+Remove this unused "letType" private field.(ƒÔ•ˆúÿÿÿÿ8’«”–â0
+H
+java:S1068"+Remove this unused "address" private field.(á»ƒÛ8‹ıƒ—â0
+Q
+java:S1068"4Remove this unused "priceInformation" private field.(®­Š8œæ—â0
+I
+java:S1068"-Remove this unused "principal" private field.(²û—p8”û”—â0
+M
+java:S1068"+Remove this unused "details" private field.(Ù¼ûšüÿÿÿÿ8¤ÙÄ—â0
+F
+java:S1068")Remove this unused "media" private field.(á”8‰Üà–â0

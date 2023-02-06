@@ -1,0 +1,44 @@
+
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(—òó˜
+}
+java:S1450"`Remove the "administrationFee" field and declare it as a local variable in the relevant methods.(§Â…ô8´È—â0
+s
+java:S1450"VRemove the "auction" field and declare it as a local variable in the relevant methods.(çì­8´È—â0
+x
+java:S1450
+"VRemove the "deposit" field and declare it as a local variable in the relevant methods.(ËÊåöÿÿÿÿÿ8´È—â0
+v
+java:S1450	"TRemove the "price" field and declare it as a local variable in the relevant methods.(ËŒÑÎúÿÿÿÿ8´È—â0
+
+java:S1450"_Remove the "pricePerUnitArea" field and declare it as a local variable in the relevant methods.(İå¹“ûÿÿÿÿ8µÈ—â0
+…
+java:S1450"cRemove the "pricePerUnitPerAnnum" field and declare it as a local variable in the relevant methods.(ò²Şãûÿÿÿÿ8µÈ—â0
+
+java:S1450"]Remove the "priceQualifier" field and declare it as a local variable in the relevant methods.(à—ˆ»ÿÿÿÿÿ8µÈ—â0
+y
+java:S1450"\Remove the "rentRrequency" field and declare it as a local variable in the relevant methods.(ÜĞö²8µÈ—â0
+{
+java:S1450"YRemove the "tenureType" field and declare it as a local variable in the relevant methods.(»ÁÙÕùÿÿÿÿ8µÈ—â0
+
+java:S1450"cRemove the "tenureUnexpiredYears" field and declare it as a local variable in the relevant methods.(ŞíÂ$8µÈ—â0
+T
+java:S1068"8Remove this unused "tenureUnexpiredYears" private field.(ŞíÂ$8ÈÅ‹—â0
+D
+java:S1068	")Remove this unused "price" private field.(ËŒÑÎúÿÿÿÿ
+M
+java:S1068
+"+Remove this unused "deposit" private field.(ËÊåöÿÿÿÿÿ8›¹‡—â0
+V
+java:S1068"4Remove this unused "pricePerUnitArea" private field.(İå¹“ûÿÿÿÿ8¥ĞŒ—â0
+Z
+java:S1068"8Remove this unused "pricePerUnitPerAnnum" private field.(ò²Şãûÿÿÿÿ8Á…—â0
+H
+java:S1068"+Remove this unused "auction" private field.(çì­8ÌÔŠ—â0
+R
+java:S1068"5Remove this unused "administrationFee" private field.(§Â…ô8«¼ˆ—â0
+T
+java:S1068"2Remove this unused "priceQualifier" private field.(à—ˆ»ÿÿÿÿÿ8Ïæ†—â0
+N
+java:S1068"1Remove this unused "rentRrequency" private field.(ÜĞö²8÷‰—â0
+P
+java:S1068".Remove this unused "tenureType" private field.(»ÁÙÕùÿÿÿÿ8ñŒŠ—â0

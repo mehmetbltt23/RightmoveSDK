@@ -1,0 +1,32 @@
+
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(—òó˜
+€
+java:S1450"^Remove the "roomDescription" field and declare it as a local variable in the relevant methods.(üáª…úÿÿÿÿ8ÍÜÁ—â0
+‚
+java:S1450"`Remove the "roomDimensionText" field and declare it as a local variable in the relevant methods.(…»…éùÿÿÿÿ8ÍÜÁ—â0
+}
+java:S1450
+"`Remove the "roomDimensionUnit" field and declare it as a local variable in the relevant methods.(ĞãÔ¡8ÍÜÁ—â0
+{
+java:S1450"YRemove the "roomLength" field and declare it as a local variable in the relevant methods.(ğäÜ¯úÿÿÿÿ8ÍÜÁ—â0
+y
+java:S1450"WRemove the "roomName" field and declare it as a local variable in the relevant methods.(‰˜Í¸ıÿÿÿÿ8ÍÜÁ—â0
+~
+java:S1450	"\Remove the "roomPhotoUrls" field and declare it as a local variable in the relevant methods.(ÜÇªìúÿÿÿÿ8ÎÜÁ—â0
+z
+java:S1450"XRemove the "roomWidth" field and declare it as a local variable in the relevant methods.(®¦Ôşÿÿÿÿ8ÎÜÁ—â0
+N
+java:S1068",Remove this unused "roomName" private field.(‰˜Í¸ıÿÿÿÿ8ÿÄ»—â0
+U
+java:S1068"3Remove this unused "roomDescription" private field.(üáª…úÿÿÿÿ8ƒõ»—â0
+W
+java:S1068"5Remove this unused "roomDimensionText" private field.(…»…éùÿÿÿÿ8Áô¾—â0
+S
+java:S1068	"1Remove this unused "roomPhotoUrls" private field.(ÜÇªìúÿÿÿÿ8ïßÀ—â0
+R
+java:S1068
+"5Remove this unused "roomDimensionUnit" private field.(ĞãÔ¡8Í¬¾—â0
+P
+java:S1068".Remove this unused "roomLength" private field.(ğäÜ¯úÿÿÿÿ8ƒõ»—â0
+O
+java:S1068"-Remove this unused "roomWidth" private field.(®¦Ôşÿÿÿÿ8Õ¬¼—â0

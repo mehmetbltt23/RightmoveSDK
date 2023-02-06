@@ -1,0 +1,14 @@
+
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(—òó˜
+
+java:S1450"_Remove the "autoEmailUpdates" field and declare it as a local variable in the relevant methods.(Ô¼€àüÿÿÿÿ8½¢”—â0
+‚
+java:S1450"`Remove the "autoEmailWhenLive" field and declare it as a local variable in the relevant methods.(½˜éƒøÿÿÿÿ8½¢”—â0
+†
+java:S1450"dRemove the "principalEmailAddress" field and declare it as a local variable in the relevant methods.(˜ØéÚûÿÿÿÿ8½¢”—â0
+[
+java:S1068"9Remove this unused "principalEmailAddress" private field.(˜ØéÚûÿÿÿÿ8Ú•“—â0
+W
+java:S1068"5Remove this unused "autoEmailWhenLive" private field.(½˜éƒøÿÿÿÿ8À€”—â0
+V
+java:S1068"4Remove this unused "autoEmailUpdates" private field.(Ô¼€àüÿÿÿÿ8À€”—â0

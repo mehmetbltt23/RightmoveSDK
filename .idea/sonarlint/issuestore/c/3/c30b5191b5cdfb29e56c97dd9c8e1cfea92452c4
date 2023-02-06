@@ -1,0 +1,24 @@
+
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(—òó˜
+q
+java:S1450
+"VRemove the "caption" field and declare it as a local variable in the relevant methods.(˜º¼üÿÿÿÿ
+s
+java:S1450"XRemove the "mediaType" field and declare it as a local variable in the relevant methods.(¬Í½øÿÿÿÿ
+y
+java:S1450"^Remove the "mediaUpdateDate" field and declare it as a local variable in the relevant methods.(Û—ûíıÿÿÿÿ
+m
+java:S1450	"WRemove the "mediaUrl" field and declare it as a local variable in the relevant methods.(ùüùĞ
+s
+java:S1450"XRemove the "sortOrder" field and declare it as a local variable in the relevant methods.(§ú†¥ıÿÿÿÿ
+H
+java:S1068"-Remove this unused "mediaType" private field.(¬Í½øÿÿÿÿ
+B
+java:S1068	",Remove this unused "mediaUrl" private field.(ùüùĞ
+F
+java:S1068
+"+Remove this unused "caption" private field.(˜º¼üÿÿÿÿ
+N
+java:S1068"3Remove this unused "mediaUpdateDate" private field.(Û—ûíıÿÿÿÿ
+H
+java:S1068"-Remove this unused "sortOrder" private field.(§ú†¥ıÿÿÿÿ
